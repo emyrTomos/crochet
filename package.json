@@ -1,0 +1,32 @@
+{
+  "name": "crochet",
+  "version": "1.0.0",
+  "description": "An over-arching package to put bindings and views together",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.3.0",
+    "mocha-phantomjs-core": "^2.1.1",
+    "standard": "^10.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emyrTomos/crochet.git"
+  },
+  "keywords": [
+    "binding",
+    "javascript",
+    "ui",
+    "node"
+  ],
+  "author": "emyr.tomos@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emyrTomos/crochet/issues"
+  },
+  "homepage": "https://github.com/emyrTomos/crochet#readme"
+}
